@@ -9,6 +9,8 @@
 
 Chess Lab is a fully self-contained chess engine and analysis GUI running entirely inside your browser. It features a custom **0x88 board representation**, **negamax alpha-beta search with PVS & LMR** running inside an isolated Web Worker, **tapered midgame/endgame evaluation**, full **PGN/FEN support**, audio synthesis via the Web Audio API, and an interactive **Test Lab** for perft verification and engine benchmarking.
 
+The hosted page includes Open Graph metadata and `social-preview.jpg` so LinkedIn and other services can render a rich link preview.
+
 ---
 
 ## 🌟 Key Features
